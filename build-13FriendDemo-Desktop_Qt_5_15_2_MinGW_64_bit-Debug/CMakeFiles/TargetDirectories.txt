@@ -1,0 +1,8 @@
+E:/Code/QT/Laojiu/build-13FriendDemo-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/13FriendDemo.dir
+E:/Code/QT/Laojiu/build-13FriendDemo-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/integer.cpp.dir
+E:/Code/QT/Laojiu/build-13FriendDemo-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/Code/QT/Laojiu/build-13FriendDemo-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/Code/QT/Laojiu/build-13FriendDemo-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/13FriendDemo_autogen_timestamp_deps.dir
+E:/Code/QT/Laojiu/build-13FriendDemo-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/13FriendDemo_autogen.dir
+E:/Code/QT/Laojiu/build-13FriendDemo-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/integer.cpp_autogen_timestamp_deps.dir
+E:/Code/QT/Laojiu/build-13FriendDemo-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/integer.cpp_autogen.dir

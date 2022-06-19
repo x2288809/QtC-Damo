@@ -1,0 +1,21 @@
+# ninja log v5
+5	404	6773057721725723	13FriendDemo_autogen/timestamp	986beb740789ef0c
+5	404	6773057721725723	E:/Code/QT/Laojiu/build-13FriendDemo-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/13FriendDemo_autogen/mocs_compilation.cpp	986beb740789ef0c
+380	468	6773056081112109	CMakeFiles/13FriendDemo.dir/13FriendDemo_autogen/mocs_compilation.cpp.obj	dc2a191a36e1abc0
+5	404	6773057721725723	13FriendDemo_autogen/mocs_compilation.cpp	986beb740789ef0c
+405	1584	6773057733510906	CMakeFiles/13FriendDemo.dir/main.cpp.obj	fdab197eff351fc
+5	404	6773057721725723	E:/Code/QT/Laojiu/build-13FriendDemo-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/13FriendDemo_autogen/timestamp	986beb740789ef0c
+1656	1844	6773056860135326	13FriendDemo.exe	1afc9272f2949d4e
+447	879	6773061821490323	13FriendDemo_autogen/timestamp	986beb740789ef0c
+447	879	6773061821490323	13FriendDemo_autogen/mocs_compilation.cpp	986beb740789ef0c
+447	879	6773061821490323	E:/Code/QT/Laojiu/build-13FriendDemo-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/13FriendDemo_autogen/timestamp	986beb740789ef0c
+447	879	6773061821490323	E:/Code/QT/Laojiu/build-13FriendDemo-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/13FriendDemo_autogen/mocs_compilation.cpp	986beb740789ef0c
+438	946	6773061821350701	integer.cpp_autogen/timestamp	5416d99e3c669bcc
+438	946	6773061821350701	integer.cpp_autogen/mocs_compilation.cpp	5416d99e3c669bcc
+438	946	6773061821350701	E:/Code/QT/Laojiu/build-13FriendDemo-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/integer.cpp_autogen/timestamp	5416d99e3c669bcc
+438	946	6773061821350701	E:/Code/QT/Laojiu/build-13FriendDemo-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/integer.cpp_autogen/mocs_compilation.cpp	5416d99e3c669bcc
+947	1025	6773061822956401	CMakeFiles/integer.cpp.dir/integer.cpp_autogen/mocs_compilation.cpp.obj	bde4dec4ed375b97
+1026	1224	6773061824951071	libinteger.cpp.a	ad8bcfd3f36bd0cd
+880	1898	6773061831673135	CMakeFiles/13FriendDemo.dir/main.cpp.obj	fdab197eff351fc
+1	78	0	CMakeFiles/clean.additional	adcc2f785672e3a3
+79	94	0	clean	101d0f6048d5fe99
